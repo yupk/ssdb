@@ -124,6 +124,7 @@ Download ssdb-server.exe from here: https://github.com/ideawu/ssdb-bin
 * [Lua ssdb client driver for the ngx_lua](https://github.com/LazyZhu/lua-resty-ssdb)
 * [Yet another ssdb client for Python](https://github.com/ifduyue/pyssdb)
 * [SSDB 中文文档](http://www.ideawu.net/blog/category/ssdb)
+* [好多网](http://www.haoduowang.com/)
 
 ## Changes made to LevelDB
 
